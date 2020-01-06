@@ -4,4 +4,7 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="colorToastText">#FFFFFF</color>
+    <color name="colorToastSuccess">#84E41B</color>
+    <color name="colorToastWarning">#FFC107</color>
+    <color name="colorToastError">#AD053D</color>
 </resources>
